@@ -48,7 +48,7 @@ section {
 
 	h1 {
 		font-size: var(--font-size-large);
-		font-weight: 900;
+		font-weight: 700;
 		line-height: 120%;
 		color: var(--slate-900);
 	}
