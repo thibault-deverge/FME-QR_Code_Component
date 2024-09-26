@@ -2,16 +2,10 @@
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
-## Overview
+## Links
 
-### Screenshot
-
-![](./readme_assets/screenshot_readme.png)
-
-### Links
-
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   [Solution URL](https://www.frontendmentor.io/solutions/1qrcodecomponentsolution-YOUWzXa7VN)
+-   [Live Site](https://thibault-deverge.github.io/QR_Code_Component/)
 
 ## My process
 
@@ -27,4 +21,4 @@ This project was quite simple and I didn’t face any challenges. I was able to 
 
 ## Author
 
--   Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+-   Frontend Mentor - [@thibault-deverge](https://www.frontendmentor.io/profile/thibault-deverge)
